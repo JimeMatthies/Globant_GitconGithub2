@@ -56,7 +56,8 @@ _Todos los ejercicios estan codificados por mi y mis compañeros a través de lo
 
 Hecho por: 
 
-- [Jime Matthies](https://github.com/JimeMatthies).
-- 
-- 
-- 
+- [Nombre Alumno](https://github.com/NombreGithub).
+- [Nombre Alumno](https://github.com/NombreGithub).
+- [Nombre Alumno](https://github.com/NombreGithub).
+- [Nombre Alumno](https://github.com/NombreGithub).
+- [Nombre Alumno](https://github.com/NombreGithub).
