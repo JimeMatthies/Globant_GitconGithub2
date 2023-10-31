@@ -58,6 +58,6 @@ Hecho por:
 
 - [Jime Matthies](https://github.com/JimeMatthies).
 - [Anel Morales](https://github.com/Anelrobles).
-- [Nombre Alumno](https://github.com/NombreGithub).
+- [Edilianny Montaño](https://github.com/Edilianny99).
 - [Nombre Alumno](https://github.com/NombreGithub).
 - [Nombre Alumno](https://github.com/NombreGithub).
